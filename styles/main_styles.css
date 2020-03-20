@@ -289,7 +289,7 @@ section
 }
 .section_title
 {
-	margin-top: 13px;
+	margin-top: 0px;
 }
 .section_title h1
 {
@@ -644,6 +644,7 @@ section
 {
 	height: 947px;
 	max-height: 100vh;
+	margin-bottom: 30px;
 }
 .home_slider_container
 {
@@ -825,17 +826,17 @@ section
 
 .featured
 {
-	padding-top: 92px;
+	padding-top: 9px;
 	padding-bottom: 32px;
 	background: #ffffff;
 }
 .featured_row
 {
-	margin-top: 72px;
+	margin-top: 9px;
 }
 .featured_row > div[class^='col']
 {
-	margin-bottom: 60px;
+	margin-bottom: 30px;
 }
 .listing
 {
